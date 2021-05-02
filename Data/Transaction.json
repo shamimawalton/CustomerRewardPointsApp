@@ -1,0 +1,80 @@
+﻿[
+  {
+    "TransactionID": 101,
+    "CustomerID": 1,
+    "Amount": 230.0000,
+    "TransactionDate": "2021-02-02"
+  },
+  {
+    "TransactionID": 102,
+    "CustomerID": 2,
+    "Amount": 150.0000,
+    "TransactionDate": "2021-02-15"
+  },
+  {
+    "TransactionID": 103,
+    "CustomerID": 3,
+    "Amount": 75.0000,
+    "TransactionDate": "2021-03-01"
+  },
+  {
+    "TransactionID": 104,
+    "CustomerID": 2,
+    "Amount": 80.0000,
+    "TransactionDate": "2021-03-21"
+  },
+  {
+    "TransactionID": 105,
+    "CustomerID": 1,
+    "Amount": 180.0000,
+    "TransactionDate": "2021-03-28"
+  },
+  {
+    "TransactionID": 106,
+    "CustomerID": 3,
+    "Amount": 55.0000,
+    "TransactionDate": "2021-04-01"
+  },
+  {
+    "TransactionID": 107,
+    "CustomerID": 4,
+    "Amount": 120.0000,
+    "TransactionDate": "2021-04-01"
+  },
+  {
+    "TransactionID": 108,
+    "CustomerID": 4,
+    "Amount": 90.0000,
+    "TransactionDate": "2021-04-19"
+  },
+  {
+    "TransactionID": 109,
+    "CustomerID": 7,
+    "Amount": 77.0000,
+    "TransactionDate": "2021-03-27"
+  },
+  {
+    "TransactionID": 110,
+    "CustomerID": 7,
+    "Amount": 135.0000,
+    "TransactionDate": "2021-04-07"
+  },
+  {
+    "TransactionID": 111,
+    "CustomerID": 8,
+    "Amount": 155.0000,
+    "TransactionDate": "2021-04-07"
+  },
+  {
+    "TransactionID": 112,
+    "CustomerID": 8,
+    "Amount": 190.0000,
+    "TransactionDate": "2021-04-20"
+  },
+  {
+    "TransactionID": 113,
+    "CustomerID": 8,
+    "Amount": 555.0000,
+    "TransactionDate": "2021-04-27"
+  }
+]

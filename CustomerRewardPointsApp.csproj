@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="WebGrease" Version="1.6.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Data\Customer.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Customer.json</DependentUpon>
+    </Compile>
+    <Compile Update="Data\Transaction.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Transaction.json</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Data\Customer.json">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Customer.Designer.cs</LastGenOutput>
+    </None>
+    <None Update="Data\Transaction.json">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Transaction.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>

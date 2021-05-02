@@ -1,0 +1,52 @@
+﻿[
+  {
+    "CustomerID": 1,
+    "FirstName": "Albus",
+    "LastName": "Dumbledore"
+  },
+  {
+    "CustomerID": 2,
+    "FirstName": "Minerva",
+    "LastName": "Mcgonagall"
+  },
+  {
+    "CustomerID": 3,
+    "FirstName": "Harry",
+    "LastName": "Potter"
+  },
+  {
+    "CustomerID": 4,
+    "FirstName": "Hermione",
+    "LastName": "Granger"
+  },
+  {
+    "CustomerID": 5,
+    "FirstName": "Ronald",
+    "LastName": "Weasley"
+  },
+  {
+    "CustomerID": 6,
+    "FirstName": "Luna",
+    "LastName": "Lovegood"
+  },
+  {
+    "CustomerID": 7,
+    "FirstName": "Severus",
+    "LastName": "Snape"
+  },
+  {
+    "CustomerID": 8,
+    "FirstName": "Draco",
+    "LastName": "Malfoy"
+  },
+  {
+    "CustomerID": 9,
+    "FirstName": "Neville",
+    "LastName": "Longbottom"
+  },
+  {
+    "CustomerID": 10,
+    "FirstName": "Lord",
+    "LastName": "Voldemort"
+  }
+]
