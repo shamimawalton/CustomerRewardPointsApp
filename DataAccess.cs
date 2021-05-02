@@ -9,8 +9,8 @@ namespace CustomerRewardPointsApp
 {
     public class DataAccess
     {
-        private static string customerDataFile = @"C:\Users\shami\source\repos\CustomerRewardPointsApp\Data\Customer.json";
-        private static string transactionDataFile = @"C:\Users\shami\source\repos\CustomerRewardPointsApp\Data\Transaction.json";
+        private static string customerDataFile = @"..\..\..\Data\Customer.json";
+        private static string transactionDataFile = @"..\..\..\Data\Transaction.json";
         public static List <Customer> GetCustomers()
         {
             var list = new List<Customer>();            
